@@ -3,7 +3,10 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Shreyansh</h1>
+<p align="center">
+  <img src="intro.png" alt="Hi, I'm Shreyansh" width="500px"/>
+</p>
+
 
 <p align="center">Software dev student 👨‍💻 who writes code, breaks stuff, then fixes it (sometimes).<br>
 Currently learning full-stack dev, debugging more than coding, and waiting for my projects to stop breaking 🚀<br>
