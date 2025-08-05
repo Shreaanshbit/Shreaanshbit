@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="intro2.gif" alt="Hi, I'm Shreyansh" width="800px"/>
+  <img src="intro2.png" alt="Hi, I'm Shreyansh" width="900px"/>
 </p>
 
 
