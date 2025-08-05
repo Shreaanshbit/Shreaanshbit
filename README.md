@@ -15,7 +15,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreaanshbit&label=Profile%20views&color=0e75b6&style=flat" alt="shreaanshbit" /> </p>
 
----
 
 ### 🛠️ Projects I'm Cooking Up
 
@@ -30,25 +29,21 @@
 - 🧠 **FocusFusion** – A distraction-tracking Pomodoro app built to boost deep focus and productivity.  
 - 🩸 **Lunara** – An AI-powered menstrual cycle tracker with mood prediction & symptom logging.
 
----
 
 ### 📚 Currently Learning
 
 React, Express, MongoDB, and lowkey fighting with TypeScript 😅
 
----
 
 ### 📫 How to Reach Me
 
 **Email:** singh.shreyansh1756@gmail.com
 
----
 
 ### ⚡ Fun Fact
 
 🏴‍☠️ I name my variables, forget them 10 minutes later, and go on a full-blown pirate hunt to find them again 🪙🗺️☠️
 
----
 
 ### 🌐 Connect with Me
 
@@ -70,7 +65,6 @@ React, Express, MongoDB, and lowkey fighting with TypeScript 😅
   </a>
 </p>
 
----
 
 ### 🧰 Languages & Tools
 
