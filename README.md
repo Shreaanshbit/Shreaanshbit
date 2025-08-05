@@ -19,6 +19,13 @@
 
 ### 🛠️ Projects I'm Cooking Up
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
+    <img src="clickme.gif" alt="Click me!" width="600px"/>
+  </a>
+</p>
+
+
 - 🧠 **FocusFusion** – A distraction-tracking Pomodoro app built to boost deep focus and productivity.  
 - 🩸 **Lunara** – An AI-powered menstrual cycle tracker with mood prediction & symptom logging.
 
