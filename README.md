@@ -4,13 +4,14 @@
 
 
 <p align="center">
-  <img src="intro.png" alt="Hi, I'm Shreyansh" width="500px"/>
+  <img src="intro.png" alt="Hi, I'm Shreyansh" width="700px"/>
 </p>
 
 
-<p align="center">Software dev student 👨‍💻 who writes code, breaks stuff, then fixes it (sometimes).<br>
-Currently learning full-stack dev, debugging more than coding, and waiting for my projects to stop breaking 🚀<br>
-<code>console.log("Still figuring it out...")</code></p>
+<p align="center">
+  <img src="intro2.gif" alt="Hi, I'm Shreyansh" width="800px"/>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shreaanshbit&label=Profile%20views&color=0e75b6&style=flat" alt="shreaanshbit" /> </p>
 
