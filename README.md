@@ -20,10 +20,11 @@
 ### 🛠️ Projects I'm Cooking Up
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank" rel="noopener noreferrer">
     <img src="clickme.gif" alt="Click me!" width="600px"/>
   </a>
 </p>
+
 
 
 - 🧠 **FocusFusion** – A distraction-tracking Pomodoro app built to boost deep focus and productivity.  
