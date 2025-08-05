@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner with Quote" width="100%" style="border-radius: 10px;" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 
 <p align="center">Software dev student 👨‍💻 who writes code, breaks stuff, then fixes it (sometimes).<br>
