@@ -12,8 +12,10 @@
   <img src="intro2.png" alt="Hi, I'm Shreyansh" width="900px"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreaanshbit&label=👀+Profile+Views&color=ff69b4&style=flat-square" alt="profile views"/>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shreaanshbit&label=Profile%20views&color=0e75b6&style=flat" alt="shreaanshbit" /> </p>
 
 
 ### 🛠️ Projects I'm Cooking Up
