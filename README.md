@@ -37,8 +37,9 @@
 
 
 
-- 🧠 **FocusFusion** – A distraction-tracking Pomodoro app built to boost deep focus and productivity.  
-- 🩸 **Lunara** – An AI-powered menstrual cycle tracker with mood prediction & symptom logging.
+<p alignn="centre">
+            <img src="Lunara.png" alt="Lunara" width="2000px"/>
+</p>
 
 
 ### 📚 Currently Learning
