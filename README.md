@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Shreaanshbit" target="_blank">
-  <img src="banner.png" alt="Banner with Quote" width="100%" style="border-radius: 10px;" />
+  <img src="bannner.png" alt="Banner with Quote" width="100%" style="border-radius: 10px;" />
   </a>
 </p>
 
