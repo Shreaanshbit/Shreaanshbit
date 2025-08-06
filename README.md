@@ -6,12 +6,16 @@
 
 
 <p align="center">
+    <a href="https://github.com/Shreaanshbit" target="_blank">
   <img src="intro.png" alt="Hi, I'm Shreyansh" width="700px"/>
+    </a>
 </p>
 
 
 <p align="center">
+    <a href="https://github.com/Shreaanshbit" target="_blank">
   <img src="intro2.png" alt="Hi, I'm Shreyansh" width="900px"/>
+    </a>
 </p>
 
 <p align="center">
