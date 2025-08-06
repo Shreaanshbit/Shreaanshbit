@@ -29,13 +29,6 @@
       </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank" rel="noopener noreferrer">
-    <img src="clickme.gif" alt="Click me!" width="400px"/>
-  </a>
-</p>
-
-
 
 <p alignn="centre">
             <img src="Lunara.png" alt="Lunara" width="2000px"/>
