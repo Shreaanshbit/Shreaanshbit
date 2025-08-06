@@ -23,12 +23,15 @@
 </p>
 
 
-
-### 🛠️ Projects I'm Cooking Up
+<p align="centre">
+      <a href="https://github.com/Shreaanshbit" target="_blank">
+          <img src="project.gif" alt="Work in Progress" width="1000px"/>
+      </a>
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank" rel="noopener noreferrer">
-    <img src="clickme.gif" alt="Click me!" width="600px"/>
+    <img src="clickme.gif" alt="Click me!" width="400px"/>
   </a>
 </p>
 
