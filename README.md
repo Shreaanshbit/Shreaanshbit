@@ -56,10 +56,6 @@ React, Express, MongoDB, and lowkey fighting with TypeScript 😅
 **Email:** singh.shreyansh1756@gmail.com
 
 
-### ⚡ Fun Fact
-
-🏴‍☠️ I name my variables, forget them 10 minutes later, and go on a full-blown pirate hunt to find them again 🪙🗺️☠️
-
 
 ### 🌐 Connect with Me
 
