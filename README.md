@@ -41,6 +41,10 @@
             <img src="Lunara.png" alt="Lunara" width="2000px"/>
 </p>
 
+<p alignn="centre">
+            <img src="lunara_info.gif" alt="Lunara" width="1000px"/>
+</p>
+
 
 ### 📚 Currently Learning
 
