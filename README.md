@@ -40,6 +40,10 @@
 
 <hr>
 
+<p alignn="centre">
+            <img src="FocusFusion.png" alt="FocusFusion" width="2000px"/>
+</p>
+
 ### 📚 Currently Learning
 
 React, Express, MongoDB, and lowkey fighting with TypeScript 😅
