@@ -37,7 +37,7 @@
 <p alignn="centre">
             <img src="lunara_info.gif" alt="Lunara" width="1000px"/>
 </p>
----
+
 
 ### 📚 Currently Learning
 
