@@ -52,7 +52,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="centre">
   <a href="https://www.linkedin.com/in/shreyansh-singh-6b6a1232a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
